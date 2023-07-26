@@ -7,7 +7,7 @@
 This is my personal portfolio website showcasing my skills as a Software Developer and UI/UX Designer. The website is designed from scratch using HTML, CSS, and JavaScript.
 
 ## Live Demo
-You can visit the live version of the portfolio at [https://your-portfolio-url.com](https://your-portfolio-url.com)
+You can visit the live version of the portfolio at [https://portfolio-url.com](https://github.com/Muthoni-J/WebP).
 
 ## Features
 - Clean and professional design
@@ -36,4 +36,4 @@ If you have any questions or feedback, feel free to reach out to me at your.emai
 
 ---
 
-_This project was created by [Joan Muthoni](https://your-portfolio-url.com)._
+_This project was created by [Joan Muthoni](https://github.com/Muthoni-J/WebP)._
